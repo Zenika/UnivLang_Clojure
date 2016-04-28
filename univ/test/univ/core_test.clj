@@ -3,5 +3,8 @@
             [univ.core :refer :all]))
 
 (deftest a-test
-  (testing "FIXME, I fail."
-    (is (= 0 1))))
+  (testing "Arithmetic"
+    (testing "with positive integers"
+      (is (= 2 (+ 1 1)))
+      (is (= 3 (+ 1 2))))))
+
