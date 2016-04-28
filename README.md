@@ -1,7 +1,10 @@
 # UnivLang_Clojure
+
 Université des languages sur Clojure
 
 ## Pré-requis
+
+### Java 6 ou plus
 
 ### Leiningen
 
@@ -26,7 +29,7 @@ Vous avez le choix les meilleurs étant Cider+Emacs et Cursive (IntelliJ). La li
 
 Si vous optez pour Cider+Emacs vous pouvez copier le répertoire .lein de ce repo si vous voulez avoir ma conf de leiningen. 
 
-Personnellement j'utilise la distribution spacemacs qui est très simple à configurer, je vous ai aussi mis mon .spacemacs dans le repo. Il redéfinit notamment des raccourcis pour "slurp" et "barf", qui sont des fonctions de manipulation des parenthèses très utiles pour manipuler du code Lisp.
+Personnellement j'utilise la distribution Spacemacs qui est très simple à configurer, je vous ai aussi mis mon .spacemacs dans le repo. Il redéfinit notamment des raccourcis pour "slurp" et "barf", qui sont des fonctions de manipulation des parenthèses très utiles pour manipuler du code Lisp.
 
 Si vous optez pour un autre éditeur que Emacs ou Cursive trouvez comment vous connecter au REPL depuis l'éditeur pour exécuter votre code depuis celui-ci). 
 
@@ -39,8 +42,9 @@ Le cheatsheet officiel est très bien : http://clojure.org/api/cheatsheet
 De plus http://clojuredocs.org/ vous permettra de trouver facilement les descriptions et les exemples pour les fonctions de clojure.core, gardez le sous la main.
 
 
-## Le programme de la soirée
+## Programme de la soirée
 
-### REPL and workflow
+### REPL et workflow
+### Concepts de base
 ### Unit testing
 ### Koans
