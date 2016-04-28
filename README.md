@@ -56,5 +56,9 @@ Pour ceux qui n'auront pas préparé leur environnement vous pourrez évaluer la
 
 #### Structures de données
 
-### Unit testing
+
 ### Koans
+
+    lein auto test
+    
+http://exercism.io/exercises/clojure/
